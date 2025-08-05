@@ -1,0 +1,25 @@
+# File Name: job_matching_prompt.txt
+# Owner: silicastormsiam
+# Purpose: Defines a prompt template for AI-based keyword matching of job alerts against user preferences in the R.A.T.S. system.
+# Version Control: 1.0
+# Change Log:
+#   - 2025-08-05: Initial creation of prompt template.
+
+You are an AI assistant for a job alert system. Given a job description and user preferences, determine if the job is a good match. Output a JSON object with a relevance score (0-1) and a brief explanation.
+
+User Preferences:
+- Keywords: {keywords}
+- Location: {location}
+- Salary: {salary}
+- Job Type: {job_type}
+
+Job Description:
+{description}
+
+Analyze the job description for alignment with the user’s preferences. Assign a relevance score based on keyword matches, location compatibility, salary range, and job type. Provide a concise explanation for the score.
+
+Output Format:
+{
+    "relevance_score": <float>,
+    "explanation": "<string>"
+}

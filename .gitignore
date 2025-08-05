@@ -1,0 +1,13 @@
+# File Name: .gitignore
+# Owner: silicastormsiam
+# Purpose: Excludes files from Git in R.A.T.S. project.
+# Version Control: 1.1
+# Change Log:
+#   - 2025-08-05: Initial creation.
+#   - 2025-08-05: Added data/email_dumps/.
+#
+desktop.ini
+Thumbs.db
+data/rats_data.db
+data/email_dumps/
+data/
