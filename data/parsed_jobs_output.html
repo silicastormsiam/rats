@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>R.A.T.S. Parsed Job Data</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { text-align: center; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        tr:hover { background-color: #f5f5f5; }
+    </style>
+</head>
+<body>
+    <h1>Parsed Job Data for R.A.T.S. Project</h1>
+    <table>
+        <tr>
+            <th>File</th>
+            <th>Source (Email)</th>
+            <th>Job Position</th>
+            <th>Location</th>
+            <th>Minimum Requirements</th>
+            <th>Remote</th>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Chuyên gia sản phẩm đo lường</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Chuyên gia sản phẩm đo lường</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Chuyên gia sản phẩm đo lường</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Your job alert has been created: Project Manager in Canada</td>
+            <td>Sunnybrook · Toronto, Ontario, Canada</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Your job alert has been created: Project Manager in Canada</td>
+            <td>Sunnybrook · Toronto, Ontario, Canada</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Software engineering, Design, Sales, etc.</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Project Manager- Canada</td>
+            <td>Remotivate · NAMER</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Software engineering, Design, Sales, etc.</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Project Manager- Canada</td>
+            <td>Remotivate · NAMER</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Software engineering, Design, Sales, etc.</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Project Manager- Canada</td>
+            <td>Remotivate · NAMER</td>
+            <td>Easy Apply</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_1.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_2.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_3.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>glassdoor_email_4.txt</td>
+            <td>Glassdoor (noreply@glassdoor.com)</td>
+            <td>Assistant Project Manager</td>
+            <td>New York, NY</td>
+            <td>Easy Apply</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>GoogleCareers_1.txt</td>
+            <td>GoogleCareers (careers-noreply@google.com)</td>
+            <td>Software engineering, Design, Sales, etc.</td>
+            <td>Jakarta, Indonesia</td>
+            <td>Minimum qualifications</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>LinkedInAlerts_1.txt</td>
+            <td>LinkedIn (jobalerts-noreply@linkedin.com)</td>
+            <td>Project Manager- Canada</td>
+            <td>Remotivate · NAMER</td>
+            <td>Easy Apply</td>
+            <td>Yes</td>
+        </tr>
+    </table>
+</body>
+</html>

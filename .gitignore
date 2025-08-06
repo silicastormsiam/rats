@@ -1,13 +1,15 @@
-# File Name: .gitignore
-# Owner: silicastormsiam
-# Purpose: Excludes files from Git in R.A.T.S. project.
-# Version Control: 1.1
-# Change Log:
-#   - 2025-08-05: Initial creation.
-#   - 2025-08-05: Added data/email_dumps/.
-#
-desktop.ini
-Thumbs.db
-data/rats_data.db
-data/email_dumps/
-data/
+cd /m/OneDrive/Documents/GitHub/RATS
+echo "# File Name: .gitignore" > .gitignore
+echo "# Owner: silicastormsiam" >> .gitignore
+echo "# Purpose: Excludes files from Git version control in the R.A.T.S. project to prevent unnecessary tracking of temporary or sensitive data." >> .gitignore
+echo "# Version Control: 1.5" >> .gitignore
+echo "# Change Log:" >> .gitignore
+echo "# - 2025-08-05: Version 1.1 - Added data/email_dumps/ to exclude email dump files." >> .gitignore
+echo "# - 2025-08-06: Version 1.2 - Removed data/ exclusion to allow versioning of sample_jobs.json and rats_data.json." >> .gitignore
+echo "# - 2025-08-06: Version 1.3 - Restricted change log to five entries for compliance." >> .gitignore
+echo "# - 2025-08-06: Version 1.4 - Added parsed_jobs_output.txt to versioning; retained exclusions." >> .gitignore
+echo "# - 2025-08-06: Version 1.5 - Added parsed_jobs_output.html to versioning; retained exclusions." >> .gitignore
+echo "desktop.ini" >> .gitignore
+echo "Thumbs.db" >> .gitignore
+echo "data/rats_data.db" >> .gitignore
+echo "data/email_dumps/" >> .gitignore

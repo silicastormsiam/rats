@@ -1,0 +1,18 @@
+Parsed Job Data for R.A.T.S. Project
+====================================
+
+File: glassdoor_email_1.txt
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+File: glassdoor_email_2.txt
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------

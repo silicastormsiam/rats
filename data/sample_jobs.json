@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "file_name": "sample_jobs.json",
+        "owner": "silicastormsiam",
+        "purpose": "Provides mock job alert data for testing aggregation and matching features in the R.A.T.S. system.",
+        "version_control": "1.0",
+        "change_log": [
+            "2025-08-05: Initial creation with sample job entries."
+        ]
+    },
+    "jobs": [
+        {
+            "job_title": "Frontend Developer",
+            "description": "Remote position for a React developer with 3+ years experience.",
+            "location": "Thailand",
+            "salary": "$100,000+",
+            "company": "Tech Corp",
+            "url": "https://example.com/job1",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Backend Engineer",
+            "description": "Python/FastAPI role, remote, 5+ years experience.",
+            "location": "Remote",
+            "salary": "$120,000+",
+            "company": "Startup Inc",
+            "url": "https://example.com/job2",
+            "source": "Wellfound"
+        }
+    ]
+}
