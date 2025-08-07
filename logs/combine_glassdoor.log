@@ -1,0 +1,8 @@
+2025-08-07 02:55:17,516 - INFO - Read content from glassdoor_email_1.txt
+2025-08-07 02:55:17,516 - INFO - Read content from glassdoor_email_2.txt
+2025-08-07 02:55:17,517 - INFO - Read content from glassdoor_email_3.txt
+2025-08-07 02:55:17,517 - INFO - Read content from glassdoor_email_4.txt
+2025-08-07 02:55:17,517 - INFO - Combined 4 Glassdoor files into M:\OneDrive\Documents\GitHub\RATS\data\email_dumps\glassdoor_email_1.txt
+2025-08-07 02:55:17,518 - INFO - Deleted glassdoor_email_2.txt
+2025-08-07 02:55:17,519 - INFO - Deleted glassdoor_email_3.txt
+2025-08-07 02:55:17,519 - INFO - Deleted glassdoor_email_4.txt

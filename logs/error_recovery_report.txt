@@ -1,0 +1,1375 @@
+R.A.T.S. Error Recovery Report
+=============================
+
+Detected Errors and Recovery Suggestions:
+Found in combined_reports.txt: Non-English position skipped
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+Found in combined_reports.txt: Non-English position skipped
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,146 - WARNING - Initialized JSON storage at M:\OneDrive\Documents\GitHub\RATS\data\rats_data.json with 105 entries
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,149 - WARNING - Parsed metadata for glassdoor_email_1.txt: sender=noreply@glassdoor.com, subject=Assistant Project Manager at The Y (YMCA) and 6 more jobs in New York, NY for you. Apply Now., date=1:13\u202fPM (6 hours ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,151 - WARNING - Non-English position skipped for glassdoor_email_1.txt: Any A&M folks available to connect and share advice? I see several manager level roles recently posted. Im a recent BCG Project Leader, currently at...read more
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,152 - WARNING - Non-English position skipped for glassdoor_email_1.txt: Assistant Project Manager/ Project Manager Hotel Construction
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,153 - WARNING - Parsed metadata for glassdoor_email_1.txt: sender=noreply@glassdoor.com, subject=Assistant Project Manager at The Y (YMCA) and 6 more jobs in New York, NY for you. Apply Now., date=1:13\u202fPM (6 hours ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,154 - WARNING - Remote position prioritized for glassdoor_email_1.txt: Mid-levelProject managementHybrid work2 years
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,155 - WARNING - Parsed metadata for glassdoor_email_1.txt: sender=noreply@glassdoor.com, subject=Assistant Project Manager at The Y (YMCA) and 6 more jobs in New York, NY for you. Apply Now., date=1:13\u202fPM (6 hours ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,155 - WARNING - Non-English position skipped for glassdoor_email_1.txt: Assistant Project Manager / Project Coordinator  Retail Graphics
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,157 - WARNING - Parsed metadata for glassdoor_email_1.txt: sender=noreply@glassdoor.com, subject=Assistant Project Manager at The Y (YMCA) and 6 more jobs in New York, NY for you. Apply Now., date=1:13\u202fPM (6 hours ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,158 - WARNING - Extracted 65 job postings for glassdoor_email_1.txt
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,171 - WARNING - Saved entry for glassdoor_email_1.txt to M:\OneDrive\Documents\GitHub\RATS\data\rats_data.json
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,175 - WARNING - Parsed metadata for GoogleCareers_1.txt: sender=careers-noreply@google.com, subject=New job(s) match your search on Google Careers, date=Aug 5, 2025, 6:29\u202fPM (11 hours ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,176 - WARNING - Non-English position skipped for GoogleCareers_1.txt: 5 n\u0103m kinh nghi\u1ec7m khai thc cc n\u1ec1n t\u1ea3ng \u0111o l\u01b0\u1eddng, s\u1ed1 li\u1ec7u phn tch v l\u1eadp m hnh phn b\u1ed5.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,178 - WARNING - Non-English position skipped for GoogleCareers_1.txt: 5 n\u0103m kinh nghi\u1ec7m trong l\u0129nh v\u1ef1c truy\u1ec1n thng k\u1ef9 thu\u1eadt s\u1ed1, kinh doanh, ti\u1ebfp th\u1ecb ho\u1eb7c cc vai tr lin quan \u0111\u1ebfn s\u1ea3n ph\u1ea9m.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,178 - WARNING - Non-English position skipped for GoogleCareers_1.txt: Kh\u1ea3 n\u0103ng s\u1eed d\u1ee5ng ti\u1ebfng Vi\u1ec7t l\u01b0u lot \u0111\u1ec3 \u0111\u1ea3m nh\u1eadn vai tr lm vi\u1ec7c tr\u1ef1c ti\u1ebfp v\u1edbi khch hng.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,179 - WARNING - Non-English position skipped for GoogleCareers_1.txt: Kinh nghi\u1ec7m lm qu\u1ea3n l ch\u01b0\u01a1ng trnh k\u1ef9 thu\u1eadt (technical program manager) trong ngnh s\u1ea3n xu\u1ea5t.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,183 - WARNING - Remote location prioritized for GoogleCareers_1.txt: Remote eligible
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,186 - WARNING - Non-English position skipped for GoogleCareers_1.txt: 6 n\u0103m kinh nghi\u1ec7m lm vi\u1ec7c trong vai tr c\u1ed9ng tc tr\u1ef1c ti\u1ebfp ho\u1eb7c h\u1ed7 tr\u1ee3 khch hng v\u1ec1 ki\u1ebfn trc \u0111m my .
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,186 - WARNING - Non-English position skipped for GoogleCareers_1.txt: Kinh nghi\u1ec7m l\u1eadp k\u1ebf ho\u1ea1ch hi\u1ec7n \u0111\u1ea1i ho c\u01a1 s\u1edf h\u1ea1 t\u1ea7ng trong vai tr l m\u1ed9t chuyn vin t\u01b0 v\u1ea5n k\u1ef9 thu\u1eadt ho\u1eb7c k\u1ef9 s\u01b0 t\u01b0 v\u1ea5n ti\u1ec1n bn hng.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,189 - WARNING - Non-English position skipped for GoogleCareers_1.txt: 2 n\u0103m kinh nghi\u1ec7m lm vi\u1ec7c trong l\u0129nh v\u1ef1c truy\u1ec1n thng k\u1ef9 thu\u1eadt s\u1ed1 ho\u1eb7c gi\u1ea3i php ti\u1ebfp th\u1ecb/qu\u1ea3ng co k\u1ef9 thu\u1eadt s\u1ed1, tri\u1ec3n khai v \u0111o l\u01b0\u1eddng hi\u1ec7u qu\u1ea3 c\u1ee7a cc chi\u1ebfn d\u1ecbch, c\u0169ng nh\u01b0 cung c\u1ea5p gi\u1ea3i php cho khch hng.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,190 - WARNING - Remote location prioritized for GoogleCareers_1.txt: Remote eligible
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,190 - WARNING - Non-English position skipped for GoogleCareers_1.txt: Chuyn vin Marketing Mix Modeling, Kh\u1ed1i Khch hng chi\u1ebfn l\u01b0\u1ee3c
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,196 - WARNING - Remote location prioritized for GoogleCareers_1.txt: Remote eligible
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,200 - WARNING - Remote location prioritized for GoogleCareers_1.txt: Remote eligible
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,204 - WARNING - Extracted 145 job postings for GoogleCareers_1.txt
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,217 - WARNING - Saved entry for GoogleCareers_1.txt to M:\OneDrive\Documents\GitHub\RATS\data\rats_data.json
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,221 - WARNING - Fallback date identified for LinkedInAlerts_1.txt: 3:47\u202fPM (1 hour ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,221 - WARNING - Parsed metadata for LinkedInAlerts_1.txt: sender=jobalerts-noreply@linkedin.com, subject=LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>, date=3:47\u202fPM (1 hour ago)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,221 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Senior Project Manager MarTech Services [358]
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,222 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,222 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,223 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Calgary, AB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,223 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,223 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Mississauga, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,223 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,223 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Enterprise Project Manager (REMOTE)Enterprise Project Manager (REMOTE) with verification
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,224 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Legal Project Manager (Full Time, Remote Position)Legal Project Manager (Full Time, Remote Position) with verification
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,224 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Hamilton, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,224 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,224 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Matches your job preferences, workplace type is Remote.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,224 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Find jobs where youre a top applicant and tailor your resume with the help of AI.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,225 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: With the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employees have the resources to innovate and make a lasting impact. Recognized by Forbes as a top private cloud company and honored as one of Canadas Most Admired Corporate Cultures, we offer flexibility, growth opportunities, and meaningful work.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,225 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Join us in redefining healthcare  so it doesnt just survive, it thrives. To learn more about PointClickCare, check out Life at PointClickCare and connect with us on Glassdoor and LinkedIn.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,225 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: For Remote Roles: As this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but not limited to, onboarding, team events, semi-annual and annual team meetings.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,225 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: For Hybrid Roles: As this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, weekly/bi-weekly/monthly events in the office with your specific team. This is a requirement for this role.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,226 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: This position is open to remote candidates. Territory will include states in the Great Lakes Region of the US. Up to 25% travel to client sites will be required.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,226 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Thoroughly understanding the customers business and technical needs
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,226 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Foster continued growth of the teams project management capabilities, improving knowledge and experience within the PMO.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,228 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: When you apply for a position, your information is processed and stored with Lever, in accordance with Levers Privacy Policy. We use this information to evaluate your candidacy for the posted position. We also store this information, and may use it in relation to future positions to which you apply, or which we believe may be relevant to you given your background. When we have no ongoing legitimate business need to process your information, we will either delete or anonymize it. If you have any questions about how PointClickCare uses or processes your information, or if you would like to ask to access, correct, or delete your information, please contact PointClickCares human resources team: recruitment@pointclickcare.com
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,229 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: PointClickCare is a leading health tech company with one simple mission: to help providers deliver exceptional care. With the largest long\u2010term and post\u2010acute care dataset, we power AI-driven healthcare that fuels intelligent transitions, insightful interventions, and financial sustainability. Enhanced by our marketplace of 400+ integrated partners and trusted by over 30,000 provider organizations and every major U.S. health plan, were redefining healthcare, so it doesnt just survive  it thrives.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,229 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,229 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,230 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,230 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,230 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Calgary, AB (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,230 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Greater Toronto Area, Canada (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Montreal, QC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Hamilton, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Mississauga, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Montreal, QC (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Ottawa, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,231 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, Ontario, Canada (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,232 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Find jobs where youre a top applicant and tailor your resume with the help of AI.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,233 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Minimum 3 years experience in Project Management, in defense/design/construction industries.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,234 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Irving Shipbuilding Inc. is the most modern shipbuilder and in-service ship support provider in North America. Headquartered in Halifax, Nova Scotia, our skilled team and innovative facilities provide efficient building, fabrication, conversion and servicing of vessels and offshore platforms. As Canadas National Shipbuilder, Irving Shipbuilding Inc. is working with the Royal Canadian Navy on the next class of River Class Destroyers and Arctic and Offshore Patrol Ship (AOPS) vessels under the National Shipbuilding Strategy (NSS). We are proud to continue our long history as a trusted partner in Canadian shipbuilding.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,235 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,235 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $70,000 - $80,000Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $70,000 - $80,000
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,235 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,235 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Edmonton, AB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,235 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Greater Toronto Area, Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Montreal, QC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $70,000 - $80,000
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,236 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Matches your job preferences, workplace type is Remote.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,237 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Save Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $70,000 - $80,000 at White Bay
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,237 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Find jobs where youre a top applicant and tailor your resume with the help of AI.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,237 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $70,000 - $80,000
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,237 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: This is a forward-thinking digital agency that thrives on bringing bold ideas to life for their diverse client base. Fully remote and built around flexibility, they encourage a collaborative, results-driven culture that empowers their team to do exceptional work, wherever they may be.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,237 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: They are seeking an experienced Project Manager to join their team in a permanent capacity. The successful candidate will help manage web and tech projects from concept through completion, ensuring a seamless process across all stages of delivery. The role requires someone who can navigate the complexities of working with designers, developers, and clients while keeping everything on track. Youll thrive in versatility and enjoy working across a diverse collection of brands. They are looking for someone who thrives in a fast-paced, creative environment and enjoys bringing big ideas to life alongside talented people. This is a fully remote position. The candidate must be willing to work MT hours.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,239 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,239 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $65-75/hourAgency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $65-75/hour
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,239 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,239 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Montreal, QC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,239 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Laval, QC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,240 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Toronto, ON (Hybrid)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,240 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Vancouver, BC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,240 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $65-75/hour
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,240 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,240 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Matches your job preferences, workplace type is Remote.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,241 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Save Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $65-75/hour at White Bay
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,241 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Find jobs where youre a top applicant and tailor your resume with the help of AI.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,241 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: Agency Project Manager | Digital Agency | Tech/Web Projects | 100% remote (MT Hours) | $65-75/hour
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,241 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: This is a forward-thinking digital agency that thrives on bringing bold ideas to life for their diverse client base. Fully remote and built around flexibility, they encourage a collaborative, results-driven culture that empowers their team to do exceptional work, wherever they may be.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,241 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: They are seeking an experienced Project Manager to join their team on a contract basis. The successful candidate will help manage web and tech projects from concept through completion, ensuring a seamless process across all stages of delivery. The role requires someone who can navigate the complexities of working with designers, developers, and clients while keeping everything on track. Youll thrive in versatility and enjoy working across a diverse collection of brands.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,241 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: This is a fully remote, three-month contract position offering $65$75/hour. They are looking for someone who thrives in a fast-paced, creative environment and enjoys bringing big ideas to life alongside talented people. The candidate must be willing to work MT hours.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,243 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,243 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Edmonton, AB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,243 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Laval, QC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Hamilton, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Moncton, NB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Mississauga, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Regina, SK (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Victoria, BC (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Winnipeg, MB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Edmonton, AB (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Mississauga, ON (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote position prioritized for LinkedInAlerts_1.txt: IT Project Manager and Generalist (Remote - Canada)IT Project Manager and Generalist (Remote - Canada)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,244 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Quebec, Canada (Remote)
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,245 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Remote
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,245 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Matches your job preferences, workplace type is Remote.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,245 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Find jobs where youre a top applicant and tailor your resume with the help of AI.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,245 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: We're looking for someone to join our Project Management Team and help with planning & budgeting, implementation and completion of specific projects while ensuring consistency with Control Gaps overall strategy. As part of the Control Gap team, you will work with high-profile clients in various industries and collaborate with a team of highly skilled security consultants on challenging projects, large and small. We analyze, assess and design effective security controls to help clients achieve Payment Card Industry (PCI) compliance, privacy compliance and to improve enterprise-wide security.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,247 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Attend project status meetings, taking minutes and publishing them to all attendees
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,248 - WARNING - Remote location prioritized for LinkedInAlerts_1.txt: Hybrid work options, including working from home.
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,248 - WARNING - Non-English position skipped for LinkedInAlerts_1.txt: Control Gap is a privately held company, headquartered in Toronto Ontario Canada, with hundreds of satisfied customers across North America and Europe including retail and e-commerce merchants, service providers, financial services, healthcare, government, insurance, petroleum, and many more. We help businesses avoid costly data breaches by safeguarding sensitive data and reducing security risk. We are also proud to be Canadas foremost leader in Payment Card Industry (PCI) compliance validation and advisory services, founded from decades of cyber security, privacy data protection, and payment industry experience.
+
+  Recovery: Review skipped lines for valid job titles with special characters (e.g., 'MarTech'). Adjust English-only filter in parse_email to allow valid titles.
+2025-08-07 07:23:35,249 - WARNING - Extracted 124 job postings for LinkedInAlerts_1.txt
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,263 - WARNING - Saved entry for LinkedInAlerts_1.txt to M:\OneDrive\Documents\GitHub\RATS\data\rats_data.json
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,264 - WARNING - Generated text output at M:\OneDrive\Documents\GitHub\RATS\data\parsed_jobs_output.txt with 108 entries
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,295 - WARNING - Validated JSON data with 108 entries for HTML output
+
+  Recovery: Manual review required. Check email dump content and script logic.
+2025-08-07 07:23:35,296 - WARNING - Generated static table with 108 entries
+
+  Recovery: Manual review required. Check email dump content and script logic.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Non-English job position in rats_data.json for GoogleCareers_1.txt: Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Non-English job position in rats_data.json for GoogleCareers_1.txt: Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Chuyên gia sản phẩm đo lường
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Non-English job position in rats_data.json for GoogleCareers_1.txt: Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Chuyên gia sản phẩm đo lường
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job ; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Your job alert has been created: Project Manager in Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: Missing field remote in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_2.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_2.txt
+  Recovery: Review email dump glassdoor_email_2.txt for missing data. Update parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_3.txt
+  Recovery: Review email dump glassdoor_email_3.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_3.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_4.txt
+  Recovery: Review email dump glassdoor_email_4.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_4.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Invalid location in rats_data.json for LinkedInAlerts_1.txt: 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Invalid location in rats_data.json for LinkedInAlerts_1.txt: 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for glassdoor_email_1.txt
+  Recovery: Review email dump glassdoor_email_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for glassdoor_email_1.txt with source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for GoogleCareers_1.txt
+  Recovery: Review email dump GoogleCareers_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for GoogleCareers_1.txt with source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: 'Unknown' minimum_qualifications in rats_data.json for LinkedInAlerts_1.txt
+  Recovery: Review email dump LinkedInAlerts_1.txt for missing data. Update parse_email function.
+WARNING: Duplicate entry in rats_data.json for LinkedInAlerts_1.txt with source LinkedIn and job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Fewer GoogleCareers entries (20) than Glassdoor (71) in rats_data.json despite similar input volumes.
+  Recovery: Review GoogleCareers email dumps for missing job postings. Update position_pattern, location_pattern, and qualifications_pattern in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: Non-English job position in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Chuyên gia sản phẩm đo lường
+  Recovery: Enhance English-only filter in parse_email function.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: Invalid location in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): 3:47 PM (1 hour ago)
+  Recovery: Exclude timestamps from location parsing in parse_email function.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for Glassdoor (Email: noreply@glassdoor.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for GoogleCareers (Email: careers-noreply@google.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: 'Unknown' value in parsed_jobs_output.txt for LinkedIn (Email: jobalerts-noreply@linkedin.com): Min Requirements: Unknown
+  Recovery: Cross-check with rats_data.json. Update parse_email function to handle missing data.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Chuyên gia sản phẩm đo lường
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Chuyên gia sản phẩm đo lường
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job ; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Your job alert has been created: Project Manager in Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source Glassdoor (Email: noreply@glassdoor.com) and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source GoogleCareers (Email: careers-noreply@google.com) and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.txt for source LinkedIn (Email: jobalerts-noreply@linkedin.com) and job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+  Recovery: Review parse_email function for duplicate job posting extraction.
+ERROR: JavaScript errors in parsed_jobs_output.html.
+  Recovery: Validate embedded JSON and JavaScript syntax in generate_output function of process_email_dumps.py.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Chuyen gia san pham o luong
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Chuyen gia san pham o luong
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job ; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Your job alert has been created: Project Manager in Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job Project Manager- Canada
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source Glassdoor and job Assistant Project Manager
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source GoogleCareers and job Software engineering, Design, Sales, etc.
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Duplicate entry in parsed_jobs_output.html for source LinkedIn and job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+  Recovery: Review parse_email function for duplicate job posting extraction.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Source GoogleCareers with job Chuyên gia sản phẩm đo lường in rats_data.json not found in parsed_jobs_output.html.
+  Recovery: Verify static table generation in process_email_dumps.py.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Source GoogleCareers with job Chuyên gia sản phẩm đo lường in rats_data.json not found in parsed_jobs_output.html.
+  Recovery: Verify static table generation in process_email_dumps.py.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Source GoogleCareers with job Chuyên gia sản phẩm đo lường in rats_data.json not found in parsed_jobs_output.html.
+  Recovery: Verify static table generation in process_email_dumps.py.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Your job alert has been created: Project Manager in Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Your job alert has been created: Project Manager in Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for LinkedIn with job Project Manager- Canada between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job Access to reliable transportation to travel to company offices and client work sites between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for Glassdoor with job Assistant Project Manager between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in minimum_qualifications for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in remote for GoogleCareers with job Software engineering, Design, Sales, etc. between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.
+WARNING: Mismatch in location for LinkedIn with job 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service between rats_data.json and parsed_jobs_output.html.
+  Recovery: Verify data consistency in generate_output function.

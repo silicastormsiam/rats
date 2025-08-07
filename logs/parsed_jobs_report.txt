@@ -1,0 +1,761 @@
+R.A.T.S. parsed_jobs_output.txt Report
+=====================================
+
+R.A.T.S. - Recruitment Alert Tracking System for CAPM
+==================================================
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Chuyên gia sản phẩm đo lường
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Chuyên gia sản phẩm đo lường
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Chuyên gia sản phẩm đo lường
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: ; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Your job alert has been created: Project Manager in Canada
+Location: Sunnybrook · Toronto, Ontario, Canada
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: ; Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Your job alert has been created: Project Manager in Canada
+Location: Sunnybrook · Toronto, Ontario, Canada
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: No
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Microsoft PowerPointMicrosoft WordMicrosoft ExcelMicrosoft Outlook
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Easy Apply
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Jakarta, Indonesia
+Min Requirements: Minimum qualifications
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Project Manager- Canada
+Location: Remotivate · NAMER
+Min Requirements: Easy Apply
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Mid-levelProject managementHybrid work2 years
+Location: New York, NY
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: No
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: No
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Chuyên gia sản phẩm đo lường
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: Access to reliable transportation to travel to company offices and client work sites
+Location: 3:47 PM (1 hour ago)
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Chuyên gia sản phẩm đo lường
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+Location: 3:47 PM (1 hour ago)
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Chuyên gia sản phẩm đo lường
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+Location: LinkedIn
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: Glassdoor (Email: noreply@glassdoor.com)
+Job Position: Assistant Project Manager
+Location: New York, NY
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: GoogleCareers (Email: careers-noreply@google.com)
+Job Position: Software engineering, Design, Sales, etc.
+Location: Chuyên gia sản phẩm đo lường
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------
+
+Source: LinkedIn (Email: jobalerts-noreply@linkedin.com)
+Job Position: 3 weeks of paid vacation, with 4 weeks of paid vacation after 5 years of service
+Location: LinkedIn
+Min Requirements: Unknown
+Remote: Yes
+------------------------------------

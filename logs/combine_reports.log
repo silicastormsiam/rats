@@ -1,0 +1,5 @@
+2025-08-07 07:24:30,977 - INFO - Read content from rats_data_report.txt
+2025-08-07 07:24:30,985 - INFO - Read content from parsed_jobs_report.txt
+2025-08-07 07:24:30,985 - INFO - Read content from parse_errors_report.txt
+2025-08-07 07:24:30,992 - INFO - Read content from error_recovery_report.txt
+2025-08-07 07:24:31,003 - INFO - Combined 4 report files into M:\OneDrive\Documents\GitHub\RATS\logs\combined_reports.txt
